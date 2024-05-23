@@ -4,7 +4,7 @@
 
    tags = {                                
      Name = "demo-server1"
-}
+  }
 }
 
 
