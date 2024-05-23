@@ -9,7 +9,7 @@
 
 
 resource "aws_instance" "ec2-Instance2" {
-  provider      = aws.west
+  provider      = aws.west1
   ami           = "ami-0a5ed7a812aeb495a"  # AMI for us-west-1
   instance_type = "t2.micro"
 

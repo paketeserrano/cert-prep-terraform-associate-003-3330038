@@ -14,7 +14,7 @@ provider "aws" {
 }
 
 provider "aws" {
-  alias = "west"
+  alias = "west1"
   region = "us-west-1"
   profile = "Helen"
 }
